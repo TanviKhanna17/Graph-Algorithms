@@ -1,0 +1,8 @@
+# Ignore compiled binaries
+a.out
+*.out
+*.exe
+*.bin
+.cph/
+bin/
+.vscode/
